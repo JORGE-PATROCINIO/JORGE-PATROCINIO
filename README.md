@@ -16,7 +16,7 @@
 <img src="https://github.com/JORGE-PATROCINIO/JORGE-PATROCINIO/blob/main/IMG/logo.png" width="50" height="50"/><img src="https://github.com/JORGE-PATROCINIO/JORGE-PATROCINIO/blob/main/IMG/mysql.png" width="40" height="40"/><img src="https://github.com/JORGE-PATROCINIO/JORGE-PATROCINIO/blob/main/IMG/BOOTSTRAP.png" width="70" height="70"/><img src="https://github.com/JORGE-PATROCINIO/JORGE-PATROCINIO/blob/main/IMG/tailwind.png" width="90" height="50"/>
 ## Estou aprendendo
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+<img src="https://github.com/JORGE-PATROCINIO/JORGE-PATROCINIO/blob/main/IMG/java.png" width="40" height="40"/> <img src="https://github.com/JORGE-PATROCINIO/JORGE-PATROCINIO/blob/main/IMG/PYTHON.png" width="40" height="40"/>
 
 ## OUTROS:
 
