@@ -1,4 +1,4 @@
-<img src="https://github.com/Augusto-melo/augusto-melo/blob/main/IMG/TEC.PNG" width="100%" height="400">
+<img src="JORGE-PATROCINIO/IMG/TEC.PNG" width="100%" height="400">
 
 ## MINHA TRAJETÓRIA 🚀:
 
