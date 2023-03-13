@@ -1,4 +1,4 @@
-<img src="JORGE-PATROCINIO/IMG/TEC.PNG" width="100%" height="400">
+<img src="[JORGE-PATROCINIO/IMG/TEC.PNG](https://github.com/JORGE-PATROCINIO/JORGE-PATROCINIO/blob/main/IMG/TEC.PNG)" width="100%" height="400">
 
 ## MINHA TRAJETÓRIA 🚀:
 
@@ -13,7 +13,7 @@
 
 
 ## ferramentas e tecnologias
-<img src="https://3.bp.blogspot.com/-oRSUw_TmO9o/XIb61m88fcI/AAAAAAAAIq0/vnxl2zzsXEQsnHI2fH4GjKu_ZT0urRo4wCK4BGAYYCw/s1600/icon%2Bcss%2B3.png" width="50" height="50"/><img src="" width="40" height="40"/><img src="https://www.ifpe.edu.br/campus/palmares/noticias/divulgado-resultado-do-curso-de-extensao-em-java/javalogo.png/@@images/69c46ffa-cc8a-402e-89b3-c8ac41c96431.png" width="70" height="70"/><img src="https://awari.com.br/wp-content/uploads/2023/01/tailwind-css.jpg" width="90" height="50"/><img src="" width="40" height="40"/>
+<img src="https://github.com/JORGE-PATROCINIO/JORGE-PATROCINIO/blob/main/IMG/logo.png" width="50" height="50"/><img src="https://github.com/JORGE-PATROCINIO/JORGE-PATROCINIO/blob/main/IMG/mysql.png" width="40" height="40"/><img src="https://github.com/JORGE-PATROCINIO/JORGE-PATROCINIO/blob/main/IMG/BOOTSTRAP.png" width="70" height="70"/><img src="https://github.com/JORGE-PATROCINIO/JORGE-PATROCINIO/blob/main/IMG/tailwind.png" width="90" height="50"/>
 ## Estou aprendendo
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
