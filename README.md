@@ -9,7 +9,7 @@
   
 <P ALIGN="JUSTIFY">TENHO INTERESSE EM APRENDER OUTROS TIPOS DE TECNOLOGIAS, FAÇO USO DE UMA EDUCAÇÃO CONTINUADA. DESENVOLVI SKILLS COMO: RESILIÊNCIA, DETERMINAÇÃO, FOCO E SOU UMA PESSOA DE BOA COMUNICAÇÃO QUE GOSTA DE COMPARTILHAR CONHECIMENTO.</P>
 </br>
-<div align="center"><a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></div>   
+<div align="center"><a href="https://www.linkedin.com/in/https://www.linkedin.com/in/jorgeaugusto88/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></div>   
 
 
 ## ferramentas e tecnologias:
@@ -17,7 +17,8 @@
 |:---:|:---:|:---:|:---:|
 ## Estou aprendendo:
 
-<img src="https://github.com/JORGE-PATROCINIO/JORGE-PATROCINIO/blob/main/IMG/java.png" width="100" height="70"/>    <img src="https://github.com/JORGE-PATROCINIO/JORGE-PATROCINIO/blob/main/IMG/PYTHON.png" width="100" height="70"/>
+| <img src="https://github.com/JORGE-PATROCINIO/JORGE-PATROCINIO/blob/main/IMG/java.png" width="100" height="70"/>  |  <img src="https://github.com/JORGE-PATROCINIO/JORGE-PATROCINIO/blob/main/IMG/PYTHON.png" width="100" height="70"/> |
+|:---:|:---:|
 
 ## OUTROS:
 
