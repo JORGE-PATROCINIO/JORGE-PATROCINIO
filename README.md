@@ -16,7 +16,7 @@
 <img src="https://github.com/JORGE-PATROCINIO/JORGE-PATROCINIO/blob/main/IMG/logo.png" width="50" height="50"/><img src="https://github.com/JORGE-PATROCINIO/JORGE-PATROCINIO/blob/main/IMG/mysql.png" width="40" height="40"/><img src="https://github.com/JORGE-PATROCINIO/JORGE-PATROCINIO/blob/main/IMG/BOOTSTRAP.png" width="70" height="70"/><img src="https://github.com/JORGE-PATROCINIO/JORGE-PATROCINIO/blob/main/IMG/tailwind.png" width="90" height="50"/>
 ## Estou aprendendo
 
-<img src="https://github.com/JORGE-PATROCINIO/JORGE-PATROCINIO/blob/main/IMG/java.png" width="40" height="40"/> <img src="https://github.com/JORGE-PATROCINIO/JORGE-PATROCINIO/blob/main/IMG/PYTHON.png" width="40" height="40"/>
+<img src="https://github.com/JORGE-PATROCINIO/JORGE-PATROCINIO/blob/main/IMG/java.png" width="40" height="40"/>  <img src=&ENSP"https://github.com/JORGE-PATROCINIO/JORGE-PATROCINIO/blob/main/IMG/PYTHON.png" width="40" height="40"/>
 
 ## OUTROS:
 
@@ -27,7 +27,7 @@
 
 <div>
 <a href="https://github.com/Augusto-melo">
-<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Augusto-melo&layout=compact&langs_count=7&theme=github_dark"/>         
+<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JORGE-PATROCINIO&layout=compact&langs_count=7&theme=github_dark"/>         
 
-<img height="130em" src="https://github-readme-stats.vercel.app/api?username=Augusto-melo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+<img height="130em" src="https://github-readme-stats.vercel.app/api?username=JORGE-PATROCINIO&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </div>
