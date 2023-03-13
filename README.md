@@ -13,7 +13,8 @@
 
 
 ## ferramentas e tecnologias:
-<div display="flex"><div margin right="50"><img src="https://github.com/JORGE-PATROCINIO/JORGE-PATROCINIO/blob/main/IMG/logo.png" width="100" height="60"/></div> <div><img src="https://github.com/JORGE-PATROCINIO/JORGE-PATROCINIO/blob/main/IMG/mysql.png" width="100" height="60"/></div> <div> <img src="https://github.com/JORGE-PATROCINIO/JORGE-PATROCINIO/blob/main/IMG/BOOTSTRAP.png" width="100" height="60"/></div> <div><img src="https://github.com/JORGE-PATROCINIO/JORGE-PATROCINIO/blob/main/IMG/tailwind.png" width="150" height="70"/></div></div>
+| <img src="https://github.com/JORGE-PATROCINIO/JORGE-PATROCINIO/blob/main/IMG/logo.png" width="100" height="60"/> |<img src="https://github.com/JORGE-PATROCINIO/JORGE-PATROCINIO/blob/main/IMG/mysql.png" width="100" height="60"/> | <img src="https://github.com/JORGE-PATROCINIO/JORGE-PATROCINIO/blob/main/IMG/BOOTSTRAP.png" width="100" height="60"/> | <img src="https://github.com/JORGE-PATROCINIO/JORGE-PATROCINIO/blob/main/IMG/tailwind.png" width="150" height="70"/> |
+|:---:|:---:|:---:|:---:|
 ## Estou aprendendo:
 
 <img src="https://github.com/JORGE-PATROCINIO/JORGE-PATROCINIO/blob/main/IMG/java.png" width="100" height="70"/>    <img src="https://github.com/JORGE-PATROCINIO/JORGE-PATROCINIO/blob/main/IMG/PYTHON.png" width="100" height="70"/>
