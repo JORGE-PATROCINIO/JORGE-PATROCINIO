@@ -32,5 +32,5 @@
 
 <div ALIGN="CENTER">
 <a href="https://github.com/Augusto-melo">
-<img height="130" WEIGHT="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JORGE-PATROCINIO&layout=compact&langs_count=7&theme=github_dark"/>         
+<img height="130" width="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JORGE-PATROCINIO&layout=compact&langs_count=7&theme=github_dark"/>         
 </div>
