@@ -9,7 +9,7 @@
   
 <P ALIGN="JUSTIFY">TENHO INTERESSE EM APRENDER OUTROS TIPOS DE TECNOLOGIAS, FAÇO USO DE UMA EDUCAÇÃO CONTINUADA. DESENVOLVI SKILLS COMO: RESILIÊNCIA, DETERMINAÇÃO, FOCO E SOU UMA PESSOA DE BOA COMUNICAÇÃO QUE GOSTA DE COMPARTILHAR CONHECIMENTO.</P>
 </br>
-<div align="center"><a href="https://www.linkedin.com/in/https://www.linkedin.com/in/jorgeaugusto88/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></div>   
+<div align="center"><a href="https://www.linkedin.com/in/jorgeaugusto88/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></div>   
 
 
 ## ferramentas e tecnologias:
