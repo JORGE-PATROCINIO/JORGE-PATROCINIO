@@ -1,4 +1,4 @@
-<img src="JORGE-PATROCINIO/IMG/TEC.PNG](https://github.com/JORGE-PATROCINIO/JORGE-PATROCINIO/blob/main/IMG/TEC.PNG" width="100%" height="400">
+<img src="https://github.com/JORGE-PATROCINIO/JORGE-PATROCINIO/blob/main/IMG/TEC.PNG" width="100%" height="400">
 
 ## MINHA TRAJETÓRIA 🚀:
 
