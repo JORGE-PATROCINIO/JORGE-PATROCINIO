@@ -26,6 +26,7 @@
 - [x] METODOLOGIA ÁGIL COM SCRUM.
 - [x] MONTAGEM E MANUTENÇÃO DE MICROS.
 - [x] REDES DOMÉSTICA.
+<BR><BR>
 
 <div ALIGN="CENTER">
 <a href="https://github.com/Augusto-melo">
