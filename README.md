@@ -2,7 +2,7 @@
 
 ---
 ## 💫 About Me:
- Estudante de Análise e Desenvolvimento de Sistemas, com um foco no desenvolvimento backend robusto e eficiente. Minha jornada acadêmica tem sido impulsionada pela busca incessante por compreender os fundamentos da lógica de programação e algoritmos. Ao longo do tempo, desenvolvi uma sólida compreensão das linguagens e frameworks essenciais para construir sistemas escaláveis e de alto desempenho.
+ Estudante de Análise e Desenvolvimento de Sistemas, com um foco no desenvolvimento backend robusto e eficiente. Minha jornada acadêmica foi impulsionada pela compreensão dos fundamentos da lógica de programação e algoritmos. Ao longo do tempo, desenvolvi uma sólida compreensão das linguagens e frameworks essenciais para construir sistemas escaláveis e de alto desempenho.
 
 Além do desenvolvimento de sistemas, sou um entusiasta por análise de dados. Acredito que os dados são a espinha dorsal de qualquer aplicação eficaz, e minha paixão por desvendar insights valiosos através da análise meticulosa dos dados é inabalável. Estou constantemente explorando novas técnicas e ferramentas para extrair o máximo de informações dos conjuntos de dados.
 
