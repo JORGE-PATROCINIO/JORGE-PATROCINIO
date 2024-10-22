@@ -1,7 +1,7 @@
 
 ---
 ## 💫 About Me:
- Formado em Análise e Desenvolvimento de Sistemas, com um foco no desenvolvimento backend robusto e eficiente. Minha jornada acadêmica foi impulsionada pela compreensão dos fundamentos da lógica de programação e algoritmos. Ao longo do tempo, desenvolvi uma sólida compreensão das linguagens e frameworks essenciais para construir sistemas escaláveis e de alto desempenho.
+ Formado em Análise e Desenvolvimento de Sistemas, com um foco no desenvolvimento robusto e eficiente. Minha jornada acadêmica foi impulsionada pela compreensão dos fundamentos da lógica de programação e algoritmos. Ao longo do tempo, desenvolvi uma sólida compreensão das linguagens e frameworks essenciais para construir sistemas escaláveis e de alto desempenho.
 
 
 <div align="center">
