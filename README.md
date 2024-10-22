@@ -1,12 +1,8 @@
-<img src="./assets/capa.png">
 
 ---
 ## 💫 About Me:
- Estudante de Análise e Desenvolvimento de Sistemas, com um foco no desenvolvimento backend robusto e eficiente. Minha jornada acadêmica foi impulsionada pela compreensão dos fundamentos da lógica de programação e algoritmos. Ao longo do tempo, desenvolvi uma sólida compreensão das linguagens e frameworks essenciais para construir sistemas escaláveis e de alto desempenho.
+ Formado em Análise e Desenvolvimento de Sistemas, com um foco no desenvolvimento backend robusto e eficiente. Minha jornada acadêmica foi impulsionada pela compreensão dos fundamentos da lógica de programação e algoritmos. Ao longo do tempo, desenvolvi uma sólida compreensão das linguagens e frameworks essenciais para construir sistemas escaláveis e de alto desempenho.
 
-Além do desenvolvimento de sistemas, sou um entusiasta por análise de dados. Acredito que os dados são a espinha dorsal de qualquer aplicação eficaz, e minha paixão por desvendar insights valiosos através da análise meticulosa dos dados é inabalável. Estou constantemente explorando novas técnicas e ferramentas para extrair o máximo de informações dos conjuntos de dados.
-
-Estou entusiasmado em aplicar meu conhecimento e habilidades para enfrentar desafios complexos e contribuir de forma significativa para projetos que impulsionem a inovação e a eficiência. Estou pronto para colaborar, aprender e evoluir nesta jornada emocionante rumo à excelência em tecnologia.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jorgeaugusto88">
